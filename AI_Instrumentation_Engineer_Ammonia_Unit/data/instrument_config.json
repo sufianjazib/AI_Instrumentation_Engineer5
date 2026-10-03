@@ -1,0 +1,38 @@
+{
+  "PT-101": {
+    "description": "Reactor pressure transmitter",
+    "range": [0, 200],
+    "unit": "bar",
+    "signal": "4-20 mA"
+  },
+  "PT-102": {
+    "description": "Redundant reactor pressure transmitter",
+    "range": [0, 200],
+    "unit": "bar",
+    "signal": "4-20 mA"
+  },
+  "TT-101": {
+    "description": "Reactor temperature transmitter",
+    "range": [0, 600],
+    "unit": "degC",
+    "signal": "4-20 mA"
+  },
+  "FT-101": {
+    "description": "Feed gas flow transmitter",
+    "range": [0, 40],
+    "unit": "t/h",
+    "signal": "4-20 mA"
+  },
+  "LT-101": {
+    "description": "Separator level transmitter",
+    "range": [0, 100],
+    "unit": "%",
+    "signal": "4-20 mA"
+  },
+  "AT-101": {
+    "description": "Ammonia concentration analyzer",
+    "range": [0, 30],
+    "unit": "%",
+    "signal": "4-20 mA"
+  }
+}
